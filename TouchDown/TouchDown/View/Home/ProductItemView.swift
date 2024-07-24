@@ -10,6 +10,7 @@ import SwiftUI
 struct ProductItemView: View {
     // MARK: - PROPERTY
     let product: ProductModel
+    
     // MARK: - BODY
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
